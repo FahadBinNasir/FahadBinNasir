@@ -14,7 +14,7 @@
 ## Badges
 
 <p align="center">
-  <img src="./assets/profile-metrics-motion.svg" alt="Animated profile metrics board" width="100%" />
+  <img src="https://fahad-readme-assets.authentiq-integrity.workers.dev/profile-metrics-motion.svg" alt="Animated profile metrics board" width="100%" />
 </p>
 
 ## Quote
@@ -24,7 +24,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="./assets/contribution-snake-motion.svg" alt="Animated contribution snake motion graphic" width="100%" />
+  <img src="https://fahad-readme-assets.authentiq-integrity.workers.dev/contribution-snake-motion.svg" alt="Animated contribution snake motion graphic" width="100%" />
 </p>
 
 ## Skills
@@ -99,7 +99,7 @@
 Enterprise knowledge platform for securely ingesting, protecting, retrieving, and querying organizational data across multiple external services using tenant-isolated retrieval and role/clearance-based access control.
 
 <p align="center">
-  <img src="./assets/unified-knowledge-brain-architecture.svg" width="100%" alt="Unified Knowledge Brain Architecture" />
+  <img src="https://fahad-readme-assets.authentiq-integrity.workers.dev/unified-knowledge-brain-architecture.svg" width="100%" alt="Unified Knowledge Brain Architecture" />
 </p>
 
 - Built with **Python 3.11**, **FastAPI**, **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **PostgreSQL 16**, **pgvector**, and **Redis 7**.
@@ -157,19 +157,19 @@ IoT inventory tracker using **NodeMCU ESP8266**, RFID, Arduino, HTTPS transmissi
 ## Activity Graph
 
 <p align="center">
-  <img src="./assets/profile-metrics-motion.svg" alt="Animated activity graph and profile metrics" width="100%" />
+  <img src="https://fahad-readme-assets.authentiq-integrity.workers.dev/activity-graph-motion.svg" alt="Animated activity graph and profile metrics" width="100%" />
 </p>
 
 ## Trophies
 
 <p align="center">
-  <img src="./assets/profile-metrics-motion.svg" alt="Animated trophies and profile achievements" width="100%" />
+  <img src="https://fahad-readme-assets.authentiq-integrity.workers.dev/trophies-motion.svg" alt="Animated trophies and profile achievements" width="100%" />
 </p>
 
 ## Streak
 
 <p align="center">
-  <img src="./assets/profile-metrics-motion.svg" alt="Animated streak and metrics board" width="100%" />
+  <img src="https://fahad-readme-assets.authentiq-integrity.workers.dev/streak-stats-motion.svg" alt="Animated streak and metrics board" width="100%" />
 </p>
 
 ## Top Languages
