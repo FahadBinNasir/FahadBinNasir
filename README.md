@@ -14,7 +14,7 @@
 ## Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahadBinNasir&theme=transparent&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="./assets/profile-metrics-motion.svg" alt="Animated profile metrics board" width="100%" />
 </p>
 
 ## Quote
@@ -24,7 +24,7 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FahadBinNasir/FahadBinNasir/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation" />
+  <img src="./assets/contribution-snake-motion.svg" alt="Animated contribution snake motion graphic" width="100%" />
 </p>
 
 ## Skills
@@ -99,7 +99,7 @@
 Enterprise knowledge platform for securely ingesting, protecting, retrieving, and querying organizational data across multiple external services using tenant-isolated retrieval and role/clearance-based access control.
 
 <p align="center">
-  <img src="./assets/unified-knowledge-brain-architecture.png" width="100%" alt="Unified Knowledge Brain Architecture" />
+  <img src="./assets/unified-knowledge-brain-architecture.svg" width="100%" alt="Unified Knowledge Brain Architecture" />
 </p>
 
 - Built with **Python 3.11**, **FastAPI**, **Next.js**, **React**, **TypeScript**, **Tailwind CSS**, **PostgreSQL 16**, **pgvector**, and **Redis 7**.
@@ -157,21 +157,19 @@ IoT inventory tracker using **NodeMCU ESP8266**, RFID, Arduino, HTTPS transmissi
 ## Activity Graph
 
 <p align="center">
-  <a href="https://github.com/FahadBinNasir">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FahadBinNasir&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
+  <img src="./assets/profile-metrics-motion.svg" alt="Animated activity graph and profile metrics" width="100%" />
 </p>
 
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FahadBinNasir&theme=nord&no-frame=true&row=2&column=4" alt="GitHub trophies" />
+  <img src="./assets/profile-metrics-motion.svg" alt="Animated trophies and profile achievements" width="100%" />
 </p>
 
 ## Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FahadBinNasir&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%" alt="GitHub streak" />
+  <img src="./assets/profile-metrics-motion.svg" alt="Animated streak and metrics board" width="100%" />
 </p>
 
 ## Top Languages
